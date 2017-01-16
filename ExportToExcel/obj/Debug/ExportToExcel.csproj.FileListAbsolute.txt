@@ -1,0 +1,7 @@
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\bin\Debug\ExportToExcel.dll
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\bin\Debug\ExportToExcel.pdb
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\bin\Debug\WindowsBase.dll
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\obj\Debug\ExportToExcel.csprojResolveAssemblyReference.cache
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\obj\Debug\ExportToExcel.dll
+C:\Projects\Workspace\myBSWHealth\ExportToExcel\obj\Debug\ExportToExcel.pdb
